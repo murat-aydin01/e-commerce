@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>t2 branch deneme</h1>
+      <h1>t2 branch deneme tekrar</h1>
     </>
   )
 }
